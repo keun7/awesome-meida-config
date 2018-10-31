@@ -1,0 +1,5 @@
+api:
+  bff:
+    path: /
+  services:
+    url: http://169.56.106.154:31012/
